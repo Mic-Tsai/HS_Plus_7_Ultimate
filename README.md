@@ -10,6 +10,8 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 Director of HECS, design light painting product which contain hardware layout and software programming.
 
 If you intresting how it work please refer for detail:
+
+
 **HECS ISSUU(https://issuu.com/home/published/hecs_book).**
 **HECS ISSUU moble device press me(https://issuu.com/home/published/hecs-book_issuu).**
 
@@ -30,13 +32,13 @@ Will OPEN SOON:
 
 Detail information please refer system block diagram.
 
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_1.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_2.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_3.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_4.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_5.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_6.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/ch1_iload.png)
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-1.png)
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-2.png)
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-3.png)
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-4.png)
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-5.png)
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-6.png)
+
 ## 
 
 ## License Information
