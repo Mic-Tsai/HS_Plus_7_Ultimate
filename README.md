@@ -1,7 +1,7 @@
 The New HaloStick Plus 7 Ultimate
 ==============================================
 
-# Light Painting Equipment
+## Light Painting Equipment
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
@@ -30,8 +30,6 @@ If you want to buy this board and are in Taiwan, please visit my shop:
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
 
-
-Detail information please refer system block diagram.
 
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-1.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-2.png)
