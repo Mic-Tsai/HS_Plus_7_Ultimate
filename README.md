@@ -20,9 +20,13 @@ If you intresting how it work please refer for detail:
 ## 
 
 Arduino tool kit, and require following breakout board:
+
 MCU: Arduino Nano
+
 Storage: SD card
+
 Display: WS2812B-5050
+
 Power source: Li-Po Battery
 
 
@@ -39,7 +43,6 @@ Detail information please refer system block diagram.
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-3.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-4.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-5.png)
-![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-6.png)
 
 ## 
 
