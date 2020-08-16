@@ -1,7 +1,7 @@
 The New HaloStick Plus 7 Ultimate
 ==============================================
 
-Light Painting Equipment
+# Light Painting Equipment
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
@@ -14,19 +14,14 @@ If you intresting how it work please refer for detail:
 
 **HECS ISSUU(https://issuu.com/home/published/hecs_book).**
 
-
 **HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu).**
 
 ## 
 
 Arduino tool kit, and require following breakout board:
-
 MCU: Arduino Nano
-
 Storage: SD card
-
 Display: WS2812B-5050
-
 Power source: Li-Po Battery
 
 
