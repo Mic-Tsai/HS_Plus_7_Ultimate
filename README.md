@@ -15,7 +15,7 @@ If you intresting how it work please refer for detail:
 **HECS ISSUU(https://issuu.com/home/published/hecs_book).**
 
 
-**HECS ISSUU moble device press me(https://issuu.com/home/published/hecs-book_issuu).**
+**HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu).**
 
 ## 
 
