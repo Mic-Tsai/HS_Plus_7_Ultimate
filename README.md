@@ -3,15 +3,23 @@
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
+##
+
 ### **About Mic**
 
 Director of HECS, design light painting product which contain hardware layout and software programming.
 
-_If you intresting how it work please refer for detail:_
+- Resume (https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
-**HECS ISSUU(https://issuu.com/home/published/hecs_book).**
+### **About HECS**
 
-**HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu).**
+If you intresting how it work please refer for detail:
+
+- HECS ISSUU(https://issuu.com/home/published/hecs_book)
+
+- HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu)
+
+- HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
 ## 
 
@@ -39,8 +47,8 @@ Will OPEN SOON:
 >### License Information
 >>This product is open source! Both, our hardware and software are open source and licensed under the following:
 >>#### Hardware
->>>All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+>>>All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
 >>#### Software 
->>>All software is released under the MIT License [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT).
+>>>All software is released under the MIT License [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 >>#### Documentation
->>>The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+>>>The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
