@@ -15,15 +15,13 @@ _If you intresting how it work please refer for detail:_
 
 ## 
 
+```
 > Arduino tool kit, and require following breakout board:
->> MCU: Arduino Nano
-
->> Storage: SD card
-
->> Display: WS2812B-5050
-
->> Power source: Li-Po Battery
-## 
+- MCU: Arduino Nano
+- Storage: SD card
+- Display: WS2812B-5050
+- Power source: Li-Po Battery
+``` 
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
