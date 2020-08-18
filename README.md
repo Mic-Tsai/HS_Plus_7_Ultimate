@@ -1,6 +1,4 @@
-The New HaloStick Plus 7 Ultimate
-==============================================
-
+# The New HaloStick Plus 7 Ultimate
 ## Light Painting Equipment
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
