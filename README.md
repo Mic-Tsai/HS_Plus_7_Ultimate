@@ -30,29 +30,19 @@ If you want to buy this board and are in Taiwan, please visit my shop:
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
 
-
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-1.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-2.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-3.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-4.png)
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-5.png)
-
 ## 
 
-### License Information
 
-This product is open source! Both, our hardware and software are open source and licensed under the following:
-
-### Hardware
-
-**All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-### Software 
-
-**All software is released under the MIT License(http://opensource.org/licenses/MIT).**
-
-### Documentation
-
-**The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+>### License Information
+>>This product is open source! Both, our hardware and software are open source and licensed under the following:
+>>#### Hardware
+>>>All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+>>#### Software 
+>>>All software is released under the MIT License [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT).
+>>#### Documentation
+>>>The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
