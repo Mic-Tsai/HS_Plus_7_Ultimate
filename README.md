@@ -39,7 +39,7 @@ Will OPEN SOON:
 
 ## 
 
-## License Information
+###### License Information
 
 This product is open source! Both, our hardware and software are open source and licensed under the following:
 
