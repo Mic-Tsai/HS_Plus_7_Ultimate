@@ -1,6 +1,9 @@
 # The New HaloStick Plus 7 Ultimate
 ## Light Painting Equipment
 
+We are visual team of POI arty performer. Design and develop the light-painting equipment which contain picture & dynamic presentation.
+- [Promotional Video](https://youtu.be/c2NhDoxItCM)
+
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
 ##
