@@ -5,7 +5,7 @@ The New HaloStick Plus 7 Ultimate
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
-** **Important** **
+** **About Mic** **
 
 Director of HECS, design light painting product which contain hardware layout and software programming.
 
