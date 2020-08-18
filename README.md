@@ -1,3 +1,5 @@
+![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-1.png)
+
 # The New HaloStick Plus 7 Ultimate
 ## Light Painting Equipment
 
