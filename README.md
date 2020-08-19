@@ -3,7 +3,7 @@
 # The New HaloStick Plus 7 Ultimate
 ## Light Painting Equipment
 
-We are visual team of POI arty performer. Design and develop the light-painting equipment which contain picture & dynamic presentation.
+We are a visual team of POI arty performers. Design and develop the light-painting equipment which contains picture & dynamic presentation.
 - [Promotional Video](https://youtu.be/c2NhDoxItCM)
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
@@ -12,13 +12,13 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 
 ### **About Mic**
 
-Director of HECS, design light painting product which contain hardware layout and software programming.
+Director of HECS, design light painting product that contains hardware layout and software programming.
 
 - [Resume](https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
 ### **About HECS**
 
-Intresting how it work please refer for detail:
+Interesting how it works please refer for detail:
 
 - [HECS ISSUU](https://issuu.com/home/published/hecs_book)
 
