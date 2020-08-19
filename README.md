@@ -9,7 +9,7 @@ We are a visual team of POI arty performers. Design and develop the light-painti
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
 ```
-> Arduino tool kit, and require following breakout board:
+Arduino tool kit, and require following breakout board:
 - MCU: Arduino Nano
 - Storage: SD card
 - Display: WS2812B-5050
@@ -34,7 +34,7 @@ Interesting how it works please refer for detail:
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
-## 
+### **Where to buy?**
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
