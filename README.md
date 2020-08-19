@@ -34,7 +34,7 @@ Interesting how it works please refer for detail:
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
-### **Where to buy?**
+### **About Hardware**
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
