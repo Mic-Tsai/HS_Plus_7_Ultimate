@@ -26,6 +26,8 @@ Director of HECS, design light painting product that contains hardware layout an
 
 - [Resume](https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
+## 
+
 ### **About HECS**
 
 Interesting how it works please refer for detail:
@@ -35,6 +37,8 @@ Interesting how it works please refer for detail:
 - [HECS ISSUU moble device](https://issuu.com/56905554/docs/hecs-book_issuu)
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
+
+## 
 
 ### **About Hardware**
 
@@ -46,7 +50,6 @@ Will OPEN SOON:
 * If this project helping. Please generously support =)
 
    [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
-
 
 ## 
 ![*HS_Plus_7_Ultimate*](https://github.com/Mic-Tsai/HS_Plus_7_Ultimate/blob/master/res/HS_Plus_7_Ultimate-1.png)
